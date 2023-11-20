@@ -1,1 +1,4 @@
 Бла-бла-бла
+
+Файл нужно было называть - hello.txt и в нем текст 
+Hey Everyone, are working together on Git and Github
